@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I´m Ian 👋. 
+I'm a recent graduate from the Instituto Politécnico Nacional, currently in the process of obtaining my degree in Communications and Electronics Engineering.
 <!--
 **P-Illescas-I-L/P-Illescas-I-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
