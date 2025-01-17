@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📝 Certificaciones
+## 📝 Certifications
 
 - **Applied Data Science with Python - Level 2** - IBM Skills Network [certificado](https://www.credly.com/badges/f3a87756-f2f1-43b2-8e05-fcf9b84a25de/public_url)
 - **Data Analysis Using Python** - IBM Skills Network [certificado](https://www.credly.com/badges/478d2bd6-27d7-4195-ae8d-742e55df368f/public_url)
