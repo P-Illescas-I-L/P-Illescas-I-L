@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## 📈 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=P-Illescas-I-L&show_icons=true&hide_title=true)
 
