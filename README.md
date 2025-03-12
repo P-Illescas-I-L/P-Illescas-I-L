@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - **Spark - Level 1** - IBM Skills Network [certificado](https://www.credly.com/badges/dd9748c8-c6ce-462e-a99b-16ac8390289e/public_url)
 - **Hadoop Foundations - Level 1**  - IBM Skills Network [certificado](https://www.credly.com/badges/ad8fe5ff-4323-4cf6-aee3-d8d05f0269cf/public_url)
 
-**"Here are all the badges I have earned from IBM SkillsBuild.** [Credly Profile](https://www.credly.com/users/ian-luis-perez-illescas)
+**Here are all the badges I have earned from IBM SkillsBuild.** [Credly Profile](https://www.credly.com/users/ian-luis-perez-illescas)
 
 
