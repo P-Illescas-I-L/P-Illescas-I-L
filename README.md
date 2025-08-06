@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - **Big Data Foundations - Level 2** - IBM Skills Network [certificate](https://www.credly.com/badges/361e8828-d727-4cb0-941c-8f8f0c3e4b91/public_url)
 - **Spark - Level 1** - IBM Skills Network [certificate](https://www.credly.com/badges/dd9748c8-c6ce-462e-a99b-16ac8390289e/public_url)
 - **Hadoop Foundations - Level 1**  - IBM Skills Network [certificate](https://www.credly.com/badges/ad8fe5ff-4323-4cf6-aee3-d8d05f0269cf/public_url)
-- **A1QA QA Manual Tester Training Course (from March to the present day)**
+- **A1QA QA Manual Tester Training Course (from March to July 2025)**
 
 **Here are all the badges I have earned from IBM SkillsBuild.** [Credly Profile](https://www.credly.com/users/ian-luis-perez-illescas)
 
