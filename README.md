@@ -7,7 +7,7 @@ Me apasiona construir soluciones confiables, escalables y basadas en datos.
 ## 🛠 Habilidades & Tecnologías
 - **QA & Testing**: WebDriverIO, POM, pruebas funcionales  
 - **Lenguajes / Desarrollo**: JavaScript, C/C++, C#, Python, SQL  
-- **Data / BI**: pandas, NumPy, scikit-learn, Tableau, Power BI  
+- **Data / BI**: pandas, NumPy, Tableau, Power BI  
 - **Hardware / Firmware Embedded**: STM32, ATMEGA16, Arduino, microcontroladores
 
 ## 📫 Contacto & Colaboraciones
