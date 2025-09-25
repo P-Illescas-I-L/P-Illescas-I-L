@@ -1,5 +1,22 @@
-### Hi I'm Ian 👋. 
-I'm a graduate from the Instituto Politécnico Nacional, currently in the process of obtaining my bachelor´s degree in Communications and Electronics Engineering.
+# 👋 Hola, soy Ian Luis Pérez Illescas
+
+## 🔎 Quién soy / Qué hago
+Ingeniero en Comunicaciones y Electrónica con enfoque en **QA Manual & Automático**, **Data Analysis** y **Desarrollo de software**.  
+Me apasiona construir soluciones confiables, escalables y basadas en datos.
+
+## 🛠 Habilidades & Tecnologías
+- **QA & Testing**: WebDriverIO, POM, pruebas funcionales  
+- **Lenguajes / Desarrollo**: JavaScript, C/C++, C#, Python, SQL  
+- **Data / BI**: pandas, NumPy, scikit-learn, Tableau, Power BI  
+- **Hardware / Firmware Embedded**: STM32, ATMEGA16, Arduino, microcontroladores
+
+## 📫 Contacto & Colaboraciones
+- LinkedIn: [[Ian Luis Pérez Illescas](https://www.linkedin.com/in/ian-luis-perez-illescas/)]  
+- Email: ianluis955@gmail.com  
+- Si quieres colaborar en algún proyecto de QA, data o desarrollo, ¡avísame!  
+
+## 🔭 Lo que estoy aprendiendo ahora
+QA Automation con Webdriverio
 <!--
 **P-Illescas-I-L/P-Illescas-I-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
